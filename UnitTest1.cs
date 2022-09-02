@@ -1,10 +1,3 @@
-using NUnit.Framework; //libreria q utilizamos
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using WebDriverManager;
-using WebDriverManager.DriverConfigs.Impl;
-
-
 namespace primertraining;
 
 public class Tests
